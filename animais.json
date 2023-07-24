@@ -1,0 +1,28 @@
+[
+
+    {
+        "id": 1,
+        "nome": "Jacaré",
+        "poder": "10",
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
+        "alt": "foto de jacaré",
+        "cor": "Verde"
+    },
+    {
+        "id": 2,
+        "nome": "cavalo",
+        "poder": "9",
+        "imagem": "https://cdn-icons-png.flaticon.com/256/4193/4193254.png",
+        "alt": "foto de cavalo",
+        "cor": "marrom"
+    },
+    {
+        "id": 3,
+        "nome": "tigre",
+        "poder": "8",
+        "imagem": "https://cdn-icons-png.flaticon.com/256/4193/4193303.png",
+        "alt": "foto de tigre",
+        "cor": "vermelho"
+    }
+
+]
